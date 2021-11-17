@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "fName": "Naveen",
+      "lName": "Patidar",
+      "uName": "naveen123",
+      "Email": "naveen@gmail.com",
+      "Pass": "U2FsdGVkX1+Wz8B811WfZ7X15zxXgEb69xdDo5cxA8g=",
+      "budget": 0,
+      "explist": [],
+      "id": 1
+    },
+    {
+      "fName": "harsh",
+      "lName": "kothari",
+      "uName": "harshkothari",
+      "Email": "harsh@gmail.com",
+      "Pass": "U2FsdGVkX18VbNfG/j67aV9N6UTOnw9vli+5tiP6V08=",
+      "budget": 22222,
+      "explist": [
+        {
+          "title": "hey ",
+          "amount": 10000
+        }
+      ],
+      "id": 2
+    },
+    {
+      "fName": "Naveen",
+      "lName": "Patidar",
+      "uName": "116097784969165644192",
+      "Email": "naveenpatidar3330@gmail.com",
+      "Pass": "socialLogin",
+      "budget": 10000,
+      "explist": [
+        {
+          "title": "car",
+          "amount": 1000
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
